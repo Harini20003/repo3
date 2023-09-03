@@ -1,0 +1,62 @@
+/* General Styling */
+body {
+  color: white;
+  background-color: black;
+  font-family: verdana,conicsan ms,times new 'Times New Roman', Times, serif;
+}
+
+.app{
+  text-align: center;
+}
+h1, h2, h3, h4, h5, p {
+  color: white;
+font-family: 'Times New Roman', Times, serif;
+ font-size: larger;
+ font-size: 70px;
+}
+
+/* Header Styling */
+header {
+  text-align: center;
+  background-color: black;
+  padding: 1rem;
+  font-size: 30px;
+}
+
+/* Container Styling */
+.container {
+  margin-top: 50px;
+}
+* {
+  box-sizing: border-box;
+}
+/* Image Styling */
+.album-photo {
+  max-width: 20%;
+  height: auto;
+  
+}
+}
+/* Page Header Styling */
+.page-header {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Anchor Styling */
+a {
+  color: white;
+
+}
+
+a:hover {
+  color: #ccc;
+}
+.parent{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 5px;
+  }
+.class {
+  font:500px;
+}
